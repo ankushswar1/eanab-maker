@@ -47,5 +47,8 @@ Theo: ESP32, TAJ protocol, magstripe, communication and storage of drink prefere
 Ankush: valve control, breathalyzer control, rand library, construction  
 Jainil: stepper, photoresistor and laser, rand library, construction  
 
+## Acknowledgements and Final Comments
+We're all undergrads at Stanford taking CS107E (Computer Systems from the Ground Up) with Pat Hanrahan and Julie Zelenski. It's an awesome class that takes a baremetal, Raspberry Pi approach to literally building computer systems from the ground up, and a lot of our code was written for and built on top of libraries for that class. Check them out at cs107e.github.io.
+
 ![Photo of Wiring](https://github.com/cs107e/jsutaria-theopolisme-ankushswar1-project/blob/master/images/Wiring.jpeg)
 ![Photo of Maker](https://github.com/cs107e/jsutaria-theopolisme-ankushswar1-project/blob/master/images/Maker.jpeg)
