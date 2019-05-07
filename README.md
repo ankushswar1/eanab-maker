@@ -38,14 +38,19 @@ Our valves are solenoids that open when a 12V current is wired to them. We use a
 Our config didn't look cool enough as is, so we decided to give it some flair with some sick lighting.
 
 ## To Run
+Configure your development environment as specified here: http://cs107e.github.io/guides/mac_toolchain/ 
 For the concierge: run 'make install-c'  
 For the maker: run 'make install-m'
+Once both Pis are up and running, connect any external computer to the WiFi network "EANABMaker" to send in your drink preferences. Then, swipe your ID card to brew it up.
 
 ## Roles and Responsibilities
 We worked on a lot of the project together, but to break down some of the responsibilities.  
 Theo: ESP32, TAJ protocol, magstripe, communication and storage of drink preferences  
 Ankush: valve control, breathalyzer control, rand library, construction  
 Jainil: stepper, photoresistor and laser, rand library, construction  
+
+## Acknowledgements
+We made this project for Stanford's computer systems class CS107E, and a lot of the code used in this project was made over the quarter when we started with barebones ARM assembly and slowly wrote higher level abstracctions. Big thanks to our professors Pat Hanrahan and Julie Zelenski for being such awesome people and guiding us through this––and our incredible TAs too! <3
 
 ![Photo of Wiring](https://github.com/cs107e/jsutaria-theopolisme-ankushswar1-project/blob/master/images/Wiring.jpeg)
 ![Photo of Maker](https://github.com/cs107e/jsutaria-theopolisme-ankushswar1-project/blob/master/images/Maker.jpeg)
