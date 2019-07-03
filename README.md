@@ -50,7 +50,7 @@ Ankush: valve control, breathalyzer control, rand library, construction
 Jainil: stepper, photoresistor and laser, rand library, construction  
 
 ## Acknowledgements
-We made this project for Stanford's computer systems class CS107E, and a lot of the code used in this project was made over the quarter when we started with barebones ARM assembly and slowly wrote higher level abstracctions. Big thanks to our professors Pat Hanrahan and Julie Zelenski for being such awesome people and guiding us through this––and our incredible TAs too! <3
+We made this project for Stanford's computer systems class CS107E, and a lot of the code used in this project was made over the quarter when we started with barebones ARM assembly and slowly wrote higher level abstractions. Big thanks to our professors Pat Hanrahan and Julie Zelenski for being such awesome people and guiding us through this––and our incredible TAs too! <3
 
 ![Photo of Wiring](https://github.com/cs107e/jsutaria-theopolisme-ankushswar1-project/blob/master/images/Wiring.jpeg)
 ![Photo of Maker](https://github.com/cs107e/jsutaria-theopolisme-ankushswar1-project/blob/master/images/Maker.jpeg)
